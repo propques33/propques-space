@@ -5,7 +5,6 @@ import AreaCalculationTable from "./AreaCalculationTable";
 import AmenitiesTable from "./AmenitiesTable";
 import AboutProp from "./AboutProp";
 import Consultants from "./Consultants";
-import QueryForm from "./QueryForm";
 import Adarsh from "./Adarsh";
 const Info = () => {
  
